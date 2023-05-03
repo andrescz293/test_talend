@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_CnwmANMxEe2UwMYBs0LEHg" name="mysql_nexis" id="_1pLPsNMwEe2UwMYBs0LEHg" label="mysql_nexis" dataPackage="_Cp_aoNMxEe2UwMYBs0LEHg" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://10.238.73.194:3306/ESP_ETL?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="afrodriguez" Password="enc:system.encryption.key.v1:+OFcD0cvstzQJZ2//QRY3GbShjOb0DVvaHD8J336Q/3EYtb0kxzP" ServerName="10.238.73.194" DatasourceName="" FileFieldName="" SID="ESP_ETL" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_CnwmAdMxEe2UwMYBs0LEHg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_ComTgNMxEe2UwMYBs0LEHg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_Cou2YNMxEe2UwMYBs0LEHg" tag="Status" value=""/>
+    <taggedValue xmi:id="_Cou2YdMxEe2UwMYBs0LEHg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_Cou2YtMxEe2UwMYBs0LEHg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_Cou2Y9MxEe2UwMYBs0LEHg" tag="Description" value=""/>
+    <taggedValue xmi:id="_Cou2ZNMxEe2UwMYBs0LEHg" tag="Author" value=""/>
+    <taggedValue xmi:id="_Cou2ZdMxEe2UwMYBs0LEHg" tag="otherParameter"/>
+    <taggedValue xmi:id="_CpVTUNMxEe2UwMYBs0LEHg" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_CpVTUdMxEe2UwMYBs0LEHg" tag="DB ProductVersion" value="5.1.45-community"/>
+    <taggedValue xmi:id="_CpVTUtMxEe2UwMYBs0LEHg" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_CnwmAtMxEe2UwMYBs0LEHg" key="CONN_PARA_KEY_USERNAME" value="afrodriguez"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_Cp_aoNMxEe2UwMYBs0LEHg" name="ESP_ETL" dataManager="_CnwmANMxEe2UwMYBs0LEHg"/>
+</xmi:XMI>
